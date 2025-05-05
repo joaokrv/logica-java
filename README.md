@@ -54,7 +54,7 @@ Saída:
 ### 2. Sequência de Fibonacci 🔄
 Este exercício exibe os primeiros N termos da sequência de Fibonacci. A sequência começa com 0 e 1, e cada número seguinte é a soma dos dois anteriores. Exemplo de entrada:
 
-    Escolha um número e irei exibir os 'N' primeiros termos da Sequência de     Fibonacci: 
+    Escolha um número e irei exibir os 'N' primeiros termos da Sequência de Fibonacci: 
     5
 
 Saída:
